@@ -1,0 +1,11 @@
+http://138.68.19.221:1500/api/vi/pets
+
+GET = Obtener la lista de perrros
+
+POST = Insertar un perro
+
+
+http://138.69.19.221:1500/api/v1/pets/:id
+
+UPDATE = Actualizar perro
+DELETE = Eliminar perro
